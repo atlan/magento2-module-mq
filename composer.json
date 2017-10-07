@@ -21,7 +21,7 @@
     },
     "suggest": {
         "renatocason/magento2-module-mq-mysql": "~0.1.0",
-        "atlan/magento2-module-mq-amqp": "~0.1.0"
+        "atlan/magento2-module-mq-amqp": "^0.1.0"
     },
     "type": "magento2-module",
     "license": [
